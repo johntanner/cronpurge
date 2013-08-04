@@ -12,4 +12,6 @@ Simply add a line such as the one below to your crontab using the "crontab -e" c
 The above line will move Inactive memory from RAM to Free memory using OS X "purge" command. This is perfectly safe, and I have been using it myself for the past year or so.
 
 DEPENDENCIES:
-Xcode 4.x (other versions may work)
+
+Xcode 4.x and up (earlier versions may work).
+Python 2.x and up (earlier versions may work).
