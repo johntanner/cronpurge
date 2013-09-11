@@ -13,5 +13,5 @@ The above line will move Inactive memory from RAM to Free memory using OS X "pur
 
 DEPENDENCIES:
 
-Xcode 4.x and up (earlier versions may work).
-Python 2.x and up (earlier versions may work).
+Xcode 4.x Command Line Tools or greater (earlier versions may work).
+Python 2.x or greater (earlier versions may work).
