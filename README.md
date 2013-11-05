@@ -14,4 +14,7 @@ Basically, the script move unusable Inactive Memory to usable Free Memory. If yo
 REQUIRES:
 
 Xcode v4.x Command Line Tools or greater (earlier versions are untested).
+
 Python v2.x or greater (earlier versions are untested).
+
+psutil v1.1.x or greater (earlier versions are untested).
